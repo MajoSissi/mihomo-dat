@@ -1,0 +1,13 @@
+payload:
+  # >>-- Domain --<<
+  # > default
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,recaptcha
+  - DOMAIN-KEYWORD,ip123
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-SUFFIX,okx.com
+  # > anime
+  - DOMAIN-SUFFIX,iwara.tv
+  # > mail
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,smtp.office365.com

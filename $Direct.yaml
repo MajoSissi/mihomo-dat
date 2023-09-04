@@ -1,0 +1,60 @@
+payload:
+  # >>-- Domain --<<
+  # > default
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-KEYWORD,time.
+  - DOMAIN,docs.cfw.lbyczf.com
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,betterncm.microblock.cc
+  # > Router
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ip-api.com
+  # > Game
+  - DOMAIN-SUFFIX,extcraft.com
+  - DOMAIN-SUFFIX,ylmc.cc
+  # > Develop
+  - DOMAIN,www2.deepl.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,fastgit.org
+  - DOMAIN-SUFFIX,githubjs.cf
+  - DOMAIN-SUFFIX,yanqishui.work
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,luatos.com
+  - DOMAIN-SUFFIX,threatbook.com
+  # > ACG
+  - DOMAIN-KEYWORD,bimiacg
+  - DOMAIN-KEYWORD,agemys.
+  - DOMAIN-KEYWORD,agedm.
+  - DOMAIN-SUFFIX,kox.moe
+  - DOMAIN-SUFFIX,ysjdm.net
+  - DOMAIN-SUFFIX,shankuwang.com
+  - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN-SUFFIX,www.nicotv.me
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,mgnacg.com
+  - DOMAIN-SUFFIX,anfuns.cc
+  - DOMAIN-SUFFIX,ixgg.me
+  - DOMAIN-SUFFIX,anfuns.cc
+  - DOMAIN-SUFFIX,girigirilove.com
+  # > Browser
+  - DOMAIN-SUFFIX,scriptcat.org
+  - DOMAIN-SUFFIX,emojiall.com
+  - DOMAIN-SUFFIX,downloadly.net
+  - DOMAIN-SUFFIX,itab.link
+  - DOMAIN-SUFFIX,crxsoso.com
+  - DOMAIN-SUFFIX,binmt.cc
+  - DOMAIN-SUFFIX,yuanliao.info
+  - DOMAIN-SUFFIX,niutrans.com
+  - DOMAIN-SUFFIX,zhutix.com
+  - DOMAIN-SUFFIX,raylink.live
+  - DOMAIN-SUFFIX,codelife.cc
+  - DOMAIN-SUFFIX,thatwind.com
+  # > TMP
+  # - DOMAIN-SUFFIX,sakurapy.com
+  - DOMAIN-SUFFIX,kubedown.com
+  - DOMAIN-SUFFIX,94speed.com
+  - DOMAIN,loomcdn.k1t.cc
+
