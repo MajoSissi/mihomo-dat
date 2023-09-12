@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,extcraft.com
   - DOMAIN-SUFFIX,ylmc.cc
   # > Develop
+  - DOMAIN,api.deeplx.org
   - DOMAIN,www2.deepl.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,gh-proxy.com
