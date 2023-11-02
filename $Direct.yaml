@@ -14,10 +14,15 @@ payload:
   # > Game
   - DOMAIN-SUFFIX,extcraft.com
   - DOMAIN-SUFFIX,ylmc.cc
+  - DOMAIN-SUFFIX,rinkore.com
   # > Develop
+  - DOMAIN-SUFFIX,icons8.com
+  - DOMAIN-SUFFIX,teracloud.jp
   - DOMAIN,api.deeplx.org
   - DOMAIN,www2.deepl.com
   - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,fastgit.org
   - DOMAIN-SUFFIX,githubjs.cf
@@ -58,4 +63,5 @@ payload:
   - DOMAIN-SUFFIX,kubedown.com
   - DOMAIN-SUFFIX,94speed.com
   - DOMAIN,loomcdn.k1t.cc
+  - DOMAIN-SUFFIX,82pic.com
 

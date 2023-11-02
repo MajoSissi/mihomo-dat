@@ -6,8 +6,10 @@ payload:
   - DOMAIN-KEYWORD,ip123
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,browserleaks.com
   # > anime
   - DOMAIN-SUFFIX,iwara.tv
   # > mail
-  - DOMAIN,outlook.office365.com
-  - DOMAIN,smtp.office365.com
+  # - DOMAIN,outlook.office365.com
+  # - DOMAIN,smtp.office365.com
+  # - DOMAIN,imap-mail.outlook.com
