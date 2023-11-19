@@ -7,8 +7,9 @@ payload:
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,browserleaks.com
-  # > anime
+  # > ACG
   - DOMAIN-SUFFIX,iwara.tv
+  - DOMAIN,sakurapybb.sharepoint.com
   # > mail
   # - DOMAIN,outlook.office365.com
   # - DOMAIN,smtp.office365.com
