@@ -1,4 +1,7 @@
 payload:
+  # === Android ===
+  - PROCESS-NAME,idm.internet.download.manager.plus
+  # === Windows ===
   # Downlaod
   - PROCESS-NAME,aria2c.exe
   # Develop
