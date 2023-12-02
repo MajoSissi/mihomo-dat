@@ -1,16 +1,15 @@
 payload:
-  # >>-- Domain --<<
-  # > default
+  # [Common Usage]
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
-  - DOMAIN-KEYWORD,ip123
+
+  # [Media]
   - DOMAIN-KEYWORD,tiktok
-  - DOMAIN-SUFFIX,okx.com
+
+  # [Network]
+  - DOMAIN-KEYWORD,ip123
   - DOMAIN-SUFFIX,browserleaks.com
-  # > ACG
+
+  # [ACG]
   - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN,sakurapybb.sharepoint.com
-  # > mail
-  # - DOMAIN,outlook.office365.com
-  # - DOMAIN,smtp.office365.com
-  # - DOMAIN,imap-mail.outlook.com

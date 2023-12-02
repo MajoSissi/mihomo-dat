@@ -1,49 +1,49 @@
 payload:
-  # > Default
-  - PROCESS-NAME,dandanplay.exe
-  - PROCESS-NAME,OneDrive.exe
-  - PROCESS-NAME,TXEDU.exe
-  - PROCESS-NAME,TIM.exe
-  - PROCESS-NAME,QQ.exe
-  - PROCESS-NAME,WeChat.exe
-  - PROCESS-NAME,baidunetdisk.exe
-  - PROCESS-NAME,aDrive.exe
-  - PROCESS-NAME,Lsf.exe
-  - PROCESS-NAME,LenovoPcManager.exe
-  - PROCESS-NAME,LenovoAppStore.exe
-  - PROCESS-NAME,DingTalk.exe
-  # > Work
-  - PROCESS-NAME,superbrowser.exe
-  - PROCESS-NAME,local-gateway.exe
-  - PROCESS-NAME,workbench-net.exe
-  # > Tools
-  - PROCESS-NAME,qbittorrent.exe
-  - PROCESS-NAME,snipaste.exe
-  - PROCESS-NAME,Ditto.exe
-  - PROCESS-NAME,HRUpdate.exe
-  - PROCESS-NAME,HipsMain.exe
-  - PROCESS-NAME,rustdesk.exe
-  - PROCESS-NAME,ToDesk.exe
-  - PROCESS-NAME,RayLink.exe
-  - PROCESS-NAME,SunloginClient.exe
-  - DOMAIN-KEYWORD,tailscale
-  - PROCESS-NAME,tailscale.exe
-  - PROCESS-NAME,tailscaled.exe
-  - PROCESS-NAME,tailscale-ipn.exe
-  # > Develop
+  # [Network]
   - PROCESS-NAME,sing-box.exe
   - PROCESS-NAME,nekoray.exe
   - PROCESS-NAME,nekobox_core.exe
   - PROCESS-NAME,warp.exe
   - PROCESS-NAME,CloudflareST.exe
   - PROCESS-NAME,geph4-client.exe
-  - PROCESS-NAME,phpstudy_pro.exe
+
+  # [Common Usage]
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,TIM.exe
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,TXEDU.exe
+  - PROCESS-NAME,DingTalk.exe
+
+  - PROCESS-NAME,OneDrive.exe
+
+  # [ACG]
+  - PROCESS-NAME,dandanplay.exe
+
+  # [Tools]
+  - PROCESS-NAME,qbittorrent.exe
+
+  - PROCESS-NAME,rustdesk.exe
+  - PROCESS-NAME,ToDesk.exe
+  - PROCESS-NAME,RayLink.exe
+  - PROCESS-NAME,SunloginClient.exe
+
+  - DOMAIN-KEYWORD,tailscale
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,tailscale-ipn.exe
+
+  # [Develop]
   - PROCESS-NAME,jetbrains-toolbox.exe
-  - PROCESS-NAME,navicat.exe
-  # > Game
+  -
+  # [Game]
   - PROCESS-NAME,LeagueClient.exe
   - PROCESS-NAME,LeagueClientUx.exe
   - PROCESS-NAME,LeagueClientUxRender.exe
   - PROCESS-NAME,FallGuys_client_game.exe
   - PROCESS-NAME,Human.exe
   - PROCESS-NAME,left4dead2.exe
+
+  # [Work]
+  - PROCESS-NAME,superbrowser.exe
+  - PROCESS-NAME,local-gateway.exe
+  - PROCESS-NAME,workbench-net.exe
