@@ -12,6 +12,10 @@ payload:
   - PROCESS-NAME,LenovoPcManager.exe
   - PROCESS-NAME,LenovoAppStore.exe
   - PROCESS-NAME,DingTalk.exe
+  # > Work
+  - PROCESS-NAME,superbrowser.exe
+  - PROCESS-NAME,local-gateway.exe
+  - PROCESS-NAME,workbench-net.exe
   # > Tools
   - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,snipaste.exe
