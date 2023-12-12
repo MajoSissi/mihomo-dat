@@ -34,12 +34,13 @@ payload:
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,downloadly.net
   - DOMAIN-SUFFIX,itab.link
+  - DOMAIN-SUFFIX,w3.org
+  - DOMAIN-SUFFIX,bitiful.com
   - DOMAIN-SUFFIX,crxsoso.com
   - DOMAIN-SUFFIX,binmt.cc
   - DOMAIN-SUFFIX,yuanliao.info
   - DOMAIN-SUFFIX,niutrans.com
   - DOMAIN-SUFFIX,zhutix.com
-  - DOMAIN-SUFFIX,raylink.live
   - DOMAIN-SUFFIX,codelife.cc
   - DOMAIN-SUFFIX,thatwind.com
 
