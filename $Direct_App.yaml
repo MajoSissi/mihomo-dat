@@ -14,18 +14,19 @@ payload:
   - PROCESS-NAME,TXEDU.exe
   - PROCESS-NAME,DingTalk.exe
 
-  - PROCESS-NAME,OneDrive.exe
-
   # [ACG]
   - PROCESS-NAME,dandanplay.exe
 
   # [Tools]
+  - PROCESS-NAME,OneDrive.exe
+
   - PROCESS-NAME,qbittorrent.exe
 
-  - PROCESS-NAME,rustdesk.exe
-  - PROCESS-NAME,ToDesk.exe
-  - PROCESS-NAME,RayLink.exe
   - PROCESS-NAME,SunloginClient.exe
+  - PROCESS-NAME,ToDesk.exe
+  - DOMAIN-SUFFIX,raylink.live
+  - PROCESS-NAME,RayLink.exe
+  - PROCESS-NAME,rustdesk.exe
 
   - DOMAIN-KEYWORD,tailscale
   - PROCESS-NAME,tailscale.exe
