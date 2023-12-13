@@ -23,10 +23,18 @@ payload:
   - PROCESS-NAME,qbittorrent.exe
 
   - PROCESS-NAME,SunloginClient.exe
-  - PROCESS-NAME,ToDesk.exe
-  - DOMAIN-SUFFIX,raylink.live
-  - PROCESS-NAME,RayLink.exe
+
   - PROCESS-NAME,rustdesk.exe
+
+  - PROCESS-NAME,ToDesk.exe
+  - PROCESS-NAME,ToDesk_Session.exe
+  - PROCESS-NAME,ToDesk.exe
+  - PROCESS-NAME,ToDesk_Service.exe
+
+  - PROCESS-NAME,RayLink.exe
+  - PROCESS-NAME,RayLinkCapturer.exe
+  - PROCESS-NAME,RayLinkService.exe
+  - PROCESS-NAME,RayLinkWatch.exe
 
   - DOMAIN-KEYWORD,tailscale
   - PROCESS-NAME,tailscale.exe
