@@ -7,15 +7,10 @@ payload:
   - PROCESS-NAME,CloudflareST.exe
   - PROCESS-NAME,geph4-client.exe
 
-  # [Common Usage]
-  - PROCESS-NAME,QQ.exe
-  - PROCESS-NAME,TIM.exe
-  - PROCESS-NAME,WeChat.exe
-  - PROCESS-NAME,TXEDU.exe
-  - PROCESS-NAME,DingTalk.exe
-
-  # [ACG]
-  - PROCESS-NAME,dandanplay.exe
+  - DOMAIN-KEYWORD,tailscale
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,tailscale-ipn.exe
 
   # [Tools]
   - PROCESS-NAME,OneDrive.exe
@@ -36,19 +31,13 @@ payload:
   - PROCESS-NAME,RayLinkService.exe
   - PROCESS-NAME,RayLinkWatch.exe
 
-  - DOMAIN-KEYWORD,tailscale
-  - PROCESS-NAME,tailscale.exe
-  - PROCESS-NAME,tailscaled.exe
-  - PROCESS-NAME,tailscale-ipn.exe
+  # [ACG]
+  - PROCESS-NAME,dandanplay.exe
 
   # [Develop]
   - PROCESS-NAME,jetbrains-toolbox.exe
   -
   # [Game]
-  - PROCESS-NAME,LeagueClient.exe
-  - PROCESS-NAME,LeagueClientUx.exe
-  - PROCESS-NAME,LeagueClientUxRender.exe
-  - PROCESS-NAME,FallGuys_client_game.exe
   - PROCESS-NAME,Human.exe
   - PROCESS-NAME,left4dead2.exe
 

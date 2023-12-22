@@ -64,3 +64,6 @@ payload:
   - DOMAIN-SUFFIX,extcraft.com
   - DOMAIN-SUFFIX,ylmc.cc
   - DOMAIN-SUFFIX,rinkore.com
+
+  # [Work]
+  - DOMAIN-SUFFIX,bdcdiy.com
