@@ -3,8 +3,10 @@ payload:
   - PROCESS-NAME,sing-box.exe
   - PROCESS-NAME,nekoray.exe
   - PROCESS-NAME,nekobox_core.exe
-  - PROCESS-NAME,warp.exe
+
   - PROCESS-NAME,CloudflareST.exe
+  - PROCESS-NAME,warp.exe
+  
   - PROCESS-NAME,geph4-client.exe
 
   - DOMAIN-KEYWORD,tailscale
