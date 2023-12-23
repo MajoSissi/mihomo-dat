@@ -1,6 +1,6 @@
 payload:
-  # [Common Usage]
-  - DOMAIN-KEYWORD,google
+  # [Default]
+  - DOMAIN,translate.google.cn
   - DOMAIN-KEYWORD,recaptcha
 
   # [Media]

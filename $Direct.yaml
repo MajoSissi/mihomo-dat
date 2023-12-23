@@ -5,6 +5,10 @@ payload:
   - DOMAIN,loomcdn.k1t.cc
   - DOMAIN-SUFFIX,82pic.com
 
+  # [Default]
+  - DOMAIN,services.googleapis.cn,DIRECT
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+
   # [Network]
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,ip-api.com
@@ -64,10 +68,6 @@ payload:
   - DOMAIN-SUFFIX,extcraft.com
   - DOMAIN-SUFFIX,ylmc.cc
   - DOMAIN-SUFFIX,rinkore.com
-
-  # [Google]
-  - DOMAIN,services.googleapis.cn,DIRECT
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 
   # [Work]
   - DOMAIN-SUFFIX,bdcdiy.com
