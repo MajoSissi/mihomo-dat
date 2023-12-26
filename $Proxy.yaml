@@ -1,15 +1,12 @@
 payload:
   # [Default]
   - DOMAIN,translate.google.cn
-  - DOMAIN-KEYWORD,recaptcha
-
-  # [Media]
-  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-SUFFIX,recaptcha.net
 
   # [Network]
-  - DOMAIN-KEYWORD,ip123
+  - DOMAIN-SUFFIX,ip123.in
+  - DOMAIN-SUFFIX,ip234.in
   - DOMAIN-SUFFIX,browserleaks.com
 
   # [ACG]
-  - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN,sakurapybb.sharepoint.com
