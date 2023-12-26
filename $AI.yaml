@@ -1,0 +1,4 @@
+payload:
+  # [Google]
+  - DOMAIN,bard.google.com
+  - DOMAIN,generativelanguage.googleapis.com
