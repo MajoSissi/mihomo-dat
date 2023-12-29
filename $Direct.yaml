@@ -6,15 +6,14 @@ payload:
   - DOMAIN-SUFFIX,82pic.com
 
   # [Default]
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,betterncm.microblock.cc
+  
   - DOMAIN,services.googleapis.cn,DIRECT
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 
   # [Network]
-  - DOMAIN-SUFFIX,ipapi.co
-  - DOMAIN-SUFFIX,ip-api.com
-  - DOMAIN,clash.razord.top
-  - DOMAIN,yacd.haishan.me
-  - DOMAIN,betterncm.microblock.cc
 
   # [ACG]
   - DOMAIN-KEYWORD,bimiacg
