@@ -9,7 +9,6 @@ payload:
   
   - PROCESS-NAME,geph4-client.exe
 
-  - DOMAIN-KEYWORD,tailscale
   - PROCESS-NAME,tailscale.exe
   - PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,tailscale-ipn.exe
