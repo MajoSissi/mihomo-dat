@@ -13,6 +13,8 @@ payload:
   - PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,tailscale-ipn.exe
 
+  - PROCESS-NAME,LinkEase.exe
+
   # [Tools]
   - PROCESS-NAME,OneDrive.exe
 
