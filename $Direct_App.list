@@ -1,0 +1,52 @@
+# [Network]
+PROCESS-NAME,sing-box.exe
+PROCESS-NAME,nekoray.exe
+PROCESS-NAME,nekobox_core.exe
+
+PROCESS-NAME,CloudflareST.exe
+PROCESS-NAME,warp.exe
+  
+PROCESS-NAME,geph4-client.exe
+
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscale-ipn.exe
+
+PROCESS-NAME,LinkEase.exe
+
+# [Tools]
+PROCESS-NAME,OneDrive.exe
+
+PROCESS-NAME,qbittorrent.exe
+
+PROCESS-NAME,SunloginClient.exe
+
+PROCESS-NAME,rustdesk.exe
+
+PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,ToDesk_Session.exe
+PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,ToDesk_Service.exe
+
+PROCESS-NAME,RayLink.exe
+PROCESS-NAME,RayLinkCapturer.exe
+PROCESS-NAME,RayLinkService.exe
+PROCESS-NAME,RayLinkWatch.exe
+
+# [ACG]
+PROCESS-NAME,dandanplay.exe
+
+# [Develop]
+PROCESS-NAME,jetbrains-toolbox.exe
+  -
+# [Game]
+PROCESS-NAME,Human.exe
+PROCESS-NAME,left4dead2.exe
+
+# [Work]
+PROCESS-NAME,SuperBrowser.exe
+PROCESS-NAME,superbrowser.exe
+PROCESS-NAME,ziniao.exe
+PROCESS-NAME,ziniaobrowser.exe
+PROCESS-NAME,local-gateway.exe
+PROCESS-NAME,workbench-net.exe

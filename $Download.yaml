@@ -1,8 +1,0 @@
-payload:
-  # [Downlaod]
-  - PROCESS-NAME,aria2c.exe
-
-  # [Develop]
-  - PROCESS-NAME,cargo.exe
-  - PROCESS-NAME,node.exe
-  - PROCESS-NAME,pip.exe
