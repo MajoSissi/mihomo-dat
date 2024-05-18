@@ -45,7 +45,7 @@ payload:
   - PROCESS-NAME,left4dead2.exe
 
   # [Work]
-  - PROCESS-PATH-REGEX,(?i)SuperBrowser\\
+  - PROCESS-PATH-REGEX,(?i)\\SuperBrowser\\
   # - PROCESS-NAME,SuperBrowser.exe
   # - PROCESS-NAME,superbrowser.exe
   # - PROCESS-NAME,ziniao.exe
