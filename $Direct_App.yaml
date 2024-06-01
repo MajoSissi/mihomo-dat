@@ -1,18 +1,11 @@
 payload:
-  # [Network]
-  - PROCESS-NAME,tailscale.exe
-  - PROCESS-NAME,tailscaled.exe
-  - PROCESS-NAME,tailscale-ipn.exe
-  - PROCESS-NAME,LinkEase.exe
+  # [Chat]
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,WeChat.exe
 
   # [Tools]
   - PROCESS-NAME,OneDrive.exe
   - PROCESS-NAME,qbittorrent.exe
-
-  # [Remote]
-  - PROCESS-PATH-REGEX,(?i)\\RustDesk\\
-  - PROCESS-PATH-REGEX,(?i)\\ToDesk\\
-  - PROCESS-PATH-REGEX,(?i)\\SunloginClient\\
 
   # [ACG]
   - PROCESS-NAME,dandanplay.exe
@@ -28,3 +21,13 @@ payload:
   # - PROCESS-NAME,ziniaobrowser.exe
   # - PROCESS-NAME,local-gateway.exe
   # - PROCESS-NAME,workbench-net.exe
+
+  # [Network]
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,tailscale-ipn.exe
+
+  # [Remote]
+  - PROCESS-PATH-REGEX,(?i)\\RustDesk\\
+  - PROCESS-PATH-REGEX,(?i)\\ToDesk\\
+  - PROCESS-PATH-REGEX,(?i)\\SunloginClient\\
