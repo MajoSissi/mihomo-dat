@@ -1,0 +1,22 @@
+# [Tools]
+PROCESS-NAME,OneDrive.exe
+PROCESS-NAME,qbittorrent.exe
+
+# [ACG]
+PROCESS-NAME,dandanplay.exe
+
+# [Develop]
+PROCESS-NAME,jetbrains-toolbox.exe
+
+# [Work]
+PROCESS-PATH-REGEX,(?i)\\SuperBrowser\\
+
+# [Network]
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscale-ipn.exe
+
+# [Remote]
+PROCESS-PATH-REGEX,(?i)\\RustDesk\\
+PROCESS-PATH-REGEX,(?i)\\ToDesk\\
+PROCESS-PATH-REGEX,(?i)\\SunloginClient\\
