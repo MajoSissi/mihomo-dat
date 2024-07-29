@@ -10,6 +10,8 @@ PROCESS-NAME,jetbrains-toolbox.exe
 
 # [Work]
 PROCESS-PATH-REGEX,(?i)\\SuperBrowser\\
+PROCESS-PATH-REGEX,(?i)\\ziniaobrowser\\
+PROCESS-PATH-REGEX,(?i)\\ziniao\\
 
 # [Network]
 PROCESS-NAME,tailscale.exe
