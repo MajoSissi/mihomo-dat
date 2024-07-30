@@ -14,9 +14,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Update rime-ice dicts
+      - name: Update mrs ruleset
         run: |
-          sh ConvertMrs.sh
+          bash ConvertMrs.sh
 
       - name: Push
         run: |
