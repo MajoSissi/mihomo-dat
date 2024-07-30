@@ -13,7 +13,7 @@ convert() {
   local path="$1"
   local type="$2"
 
-  local files=$path/*.list
+  local files=($path/*.list)
   if [ ! -e "${files[0]}" ]; then
       echo "[❎] 没有符合条件的文件：$path"
       return
