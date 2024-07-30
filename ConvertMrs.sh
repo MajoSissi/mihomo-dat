@@ -6,6 +6,10 @@ wget -O mihomo.gz \
   | grep linux-amd64-v.*\.gz)
 
 gzip -d mihomo.gz
+chmod 777 mihomo
+
+pwd
+ls
 
 # Convert
 convert() {
