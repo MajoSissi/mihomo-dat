@@ -1,5 +1,14 @@
 #!/bin/bash
+wget -O mihomo.gz \
+  $(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
+  | grep '"browser_download_url":' \
+  | sed 's/.*"\(.*\)".*/\1/'\
+  | grep linux-amd64-v.*\.gz)
 
+gzip -d mihomo.gz
+rm mihomo*
+
+# Convert
 convert() {
   local path="$1"
   local type="$2"
