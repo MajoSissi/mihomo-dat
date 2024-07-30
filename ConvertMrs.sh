@@ -6,7 +6,6 @@ wget -O mihomo.gz \
   | grep linux-amd64-v.*\.gz)
 
 gzip -d mihomo.gz
-rm mihomo*
 
 # Convert
 convert() {
@@ -25,5 +24,10 @@ convert() {
   done
 }
 
+
 convert ./domain domain
 convert ./ipcidr ipcidr
+
+
+
+rm mihomo*
