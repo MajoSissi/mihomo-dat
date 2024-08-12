@@ -1,9 +1,5 @@
 # [Private]
 +.majocc.top
-
-# [Media]
-media.nijigem.by
-random.ouonet.org
   
 # [Service]
 services.googleapis.cn,DIRECT

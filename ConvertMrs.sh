@@ -25,10 +25,8 @@ convert() {
   done
 }
 
-
 convert ./domain domain
 convert ./ipcidr ipcidr
-
 
 
 rm mihomo*
