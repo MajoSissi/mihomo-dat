@@ -1,5 +1,7 @@
 name: Delete old workflow runs
 on:
+  watch:
+    types: started
   schedule:
     - cron: '0 0 * * 0'
 
