@@ -8,7 +8,6 @@ wget -O mihomo.gz \
 gzip -d mihomo.gz
 chmod 777 mihomo
 
-# Convert
 convert() {
   local path="$1"
   local type="$2"
