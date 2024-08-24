@@ -10,22 +10,35 @@ chmod 777 mihomo
 
 convert() {
   local path="$1"
-  local type="$2"
+  local behavior="$2"
 
-  local files=($path/*.list)
-  if [ ! -e "${files[0]}" ]; then
+  local files=()
+  if ls $path/*.list &>/dev/null; then
+      files+=($path/*.list)
+  fi
+  if ls $path/*.yaml &>/dev/null; then
+      files+=($path/*.yaml)
+  fi
+
+  # 检查是否找到任何文件
+  if [ ${#files[@]} -eq 0 ]; then
       echo "[❎] 没有符合条件的文件：$path"
       return
   fi
 
   for file in "${files[@]}"; do
-    ./mihomo convert-ruleset $type text "$file" "${file%.list}.mrs"
-    echo "[✅] ${file%.list}.mrs"
+    local type="${file##*.}"
+    local basename="${file%.$type}"
+    if [ "$type" == "list" ]; then
+      type=text
+    fi
+
+    ./mihomo convert-ruleset $behavior $type $file "${basename}.mrs"
+    echo "[✅] ${basename}.mrs"
   done
 }
 
 convert ./domain domain
 convert ./ipcidr ipcidr
 
-
-rm mihomo*
+rm -f mihomo*
