@@ -1,10 +1,7 @@
 #!/bin/bash
-wget -O mihomo.gz \
-  $(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
-  | grep '"browser_download_url":' \
-  | sed 's/.*"\(.*\)".*/\1/'\
-  | grep linux-amd64-v.*\.gz)
-
+ARCH=amd64
+VERSION=$(curl -L https://github.com/MetaCubeX/mihomo/releases/latest/download/version.txt)
+wget -O mihomo.gz https://github.com/MetaCubeX/mihomo/releases/latest/download/mihomo-linux-${ARCH}-${VERSION}.gz
 gzip -d mihomo.gz
 chmod 777 mihomo
 
