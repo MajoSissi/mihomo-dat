@@ -5,11 +5,6 @@
 services.googleapis.cn,DIRECT
 +.xn--ngstr-lra8j.com,DIRECT
 
-# [Network]
-+.ts.net
-+.tailscale.com
-+.tailscale.io
-
 # [Tool]
 +.scriptcat.org
 +.emojiall.com
