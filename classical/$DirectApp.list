@@ -2,9 +2,6 @@
 PROCESS-NAME,OneDrive.exe
 PROCESS-NAME,qbittorrent.exe
 
-# [ACG]
-PROCESS-NAME,dandanplay.exe
-
 # [Develop]
 PROCESS-NAME,jetbrains-toolbox.exe
 
