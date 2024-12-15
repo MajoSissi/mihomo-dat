@@ -1,6 +1,6 @@
 # [Private]
 +.majocc.top
-  
+
 # [Service]
 services.googleapis.cn,DIRECT
 +.xn--ngstr-lra8j.com,DIRECT
@@ -36,6 +36,9 @@ cdn.jsdelivr.net
 +.luatos.com
 +.threatbook.com
 
+# [Media]
++.nijigem.by
+
 # [Game]
 +.extcraft.com
 +.ylmc.cc
@@ -44,3 +47,5 @@ cdn.jsdelivr.net
 
 # [Work]
 +.bdcdiy.com
++.tucdiy.com
++.myqcloud.com
