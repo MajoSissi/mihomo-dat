@@ -1,11 +1,3 @@
-# [Private]
-+.majocc.top
-+.sissi.us.kg
-+.majo.us.kg
-+.majo.cloudns.ch
-+.sissi.cloudns.ch
-
-
 # [Service]
 services.googleapis.cn,DIRECT
 +.xn--ngstr-lra8j.com,DIRECT
