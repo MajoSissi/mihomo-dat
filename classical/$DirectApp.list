@@ -1,12 +1,11 @@
 # [Tools]
-PROCESS-NAME,OneDrive.exe
 PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,OneDrive.exe
 
 # [Develop]
 PROCESS-NAME,jetbrains-toolbox.exe
 
 # [Work]
-PROCESS-PATH-REGEX,(?i)\\SuperBrowser\\
 PROCESS-PATH-REGEX,(?i)\\ziniaobrowser\\
 PROCESS-PATH-REGEX,(?i)\\ziniao\\
 
