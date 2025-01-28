@@ -1,6 +1,7 @@
 # [Default]
 translate.google.cn
 +.recaptcha.net
++.crxsoso.com
 
 # [Network]
 +.ip123.in
@@ -9,3 +10,7 @@ translate.google.cn
 
 # [ACG]
 sakurapybb.sharepoint.com
+
+# [CDN]
++.jsdelivr.net
+
