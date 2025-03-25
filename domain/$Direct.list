@@ -18,7 +18,6 @@ services.googleapis.cn,DIRECT
 
 # [Develop]
 +.icons8.com
-+.teracloud.jp
 api.deeplx.org
 www2.deepl.com
 +.ghproxy.com
@@ -51,7 +50,6 @@ danmaku-cn.myani.org
 +.bdcdiy.com
 +.tucdiy.com
 +.myqcloud.com
-
 
 # [cf workers proxy]
 ss.ixq.pp.ua
