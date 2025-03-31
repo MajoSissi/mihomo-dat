@@ -1,6 +1,9 @@
 # [Service]
-services.googleapis.cn,DIRECT
-+.xn--ngstr-lra8j.com,DIRECT
+services.googleapis.cn
++.xn--ngstr-lra8j.com
+
+# [CloudDrive]
++.teracloud.jp
 
 # [Tool]
 +.scriptcat.org
