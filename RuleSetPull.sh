@@ -6,8 +6,6 @@ pull(){
 }
 
 pull ./domain juewuy/ShellCrash/dev/public/fake_ip_filter.list
-pull ./classical blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.list
-pull ./classical blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list
 
 rm -f ./domain/*.[0-9]
 rm -f ./ipcidr/*.[0-9]
