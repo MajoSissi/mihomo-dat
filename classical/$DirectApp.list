@@ -13,11 +13,13 @@ PROCESS-PATH-REGEX,(?i)\\ziniao\\
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 PROCESS-NAME,tailscale-ipn.exe
+PROCESS-NAME,easytier-gui.exe
+PROCESS-NAME,easytier-core.exe
+PROCESS-NAME,easytier-cli.exe
+PROCESS-NAME,easytier-web.exe
+PROCESS-NAME,astral.exe
 
 # [Remote]
 PROCESS-PATH-REGEX,(?i)\\RustDesk\\
 PROCESS-PATH-REGEX,(?i)\\ToDesk\\
 PROCESS-PATH-REGEX,(?i)\\SunloginClient\\
-
-# [Game]
-PROCESS-PATH-REGEX,(?i)\\steamapps\\common\\
