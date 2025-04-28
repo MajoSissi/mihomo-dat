@@ -17,7 +17,6 @@ jobs:
       - name: Update mrs ruleset
         run: |
           chmod 777 *.sh
-          bash RuleSetPull.sh
           bash ConvertMrs.sh
 
       - name: Push
