@@ -30,7 +30,7 @@ convert() {
       type=text
     fi
 
-    ./mihomo convert-ruleset $behavior $type $file "${basename}.mrs"
+    ./mihomo convert-meta-rules-dat $behavior $type $file "${basename}.mrs"
     echo "[✅] ${basename}.mrs"
   done
 }

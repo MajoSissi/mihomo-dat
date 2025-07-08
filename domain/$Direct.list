@@ -2,6 +2,7 @@
 +.majocc.top
 +.785612.xyz
 +.894523.xyz
++.dns.navy
 
 # [Google]
 services.googleapis.cn
@@ -51,6 +52,7 @@ steamcdn-a.akamaihd.net
 # [Media]
 danmaku-cn.myani.org
 +.midjourney.com
++.lingvisions.com
 
 # [Work]
 +.bdcdiy.com
