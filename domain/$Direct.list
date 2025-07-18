@@ -36,8 +36,12 @@ www2.deepl.com
 +.luatos.com
 +.threatbook.com
 
-# [Game]
+# [Steam]
 steamcdn-a.akamaihd.net
+*.cm.steampowered.com
+*.steamserver.net
+
+# [Game]
 +.extcraft.com
 +.ylmc.cc
 +.rinkore.com
