@@ -38,8 +38,8 @@ www2.deepl.com
 
 # [Steam]
 steamcdn-a.akamaihd.net
-*.cm.steampowered.com
-*.steamserver.net
++.cm.steampowered.com
++.steamserver.net
 
 # [Game]
 +.extcraft.com
