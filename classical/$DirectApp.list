@@ -5,10 +5,6 @@ PROCESS-NAME,OneDrive.exe
 # [Develop]
 PROCESS-NAME,jetbrains-toolbox.exe
 
-# [Work]
-PROCESS-PATH-REGEX,(?i)\\ziniaobrowser\\
-PROCESS-PATH-REGEX,(?i)\\ziniao\\
-
 # [Network]
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
@@ -19,7 +15,6 @@ PROCESS-NAME,easytier-cli.exe
 PROCESS-NAME,easytier-web.exe
 PROCESS-NAME,astral.exe
 
-# [Remote]
-PROCESS-PATH-REGEX,(?i)\\RustDesk\\
-PROCESS-PATH-REGEX,(?i)\\ToDesk\\
-PROCESS-PATH-REGEX,(?i)\\SunloginClient\\
+# [Work]
+PROCESS-PATH-REGEX,(?i)\\ziniaobrowser\\
+PROCESS-PATH-REGEX,(?i)\\ziniao\\
