@@ -52,5 +52,4 @@ https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/v2tel
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt
-https://raw.githubusercontent.com/mai19950/clashgithub_com/refs/heads/main/site
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md

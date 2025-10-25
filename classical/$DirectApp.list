@@ -16,5 +16,4 @@ PROCESS-NAME,easytier-web.exe
 PROCESS-NAME,astral.exe
 
 # [Work]
-PROCESS-PATH-REGEX,(?i)\\ziniaobrowser\\
-PROCESS-PATH-REGEX,(?i)\\ziniao\\
+PROCESS-NAME,ziniao.exe
