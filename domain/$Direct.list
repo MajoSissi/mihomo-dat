@@ -1,9 +1,3 @@
-# [Private]
-+.majocc.top
-+.785612.xyz
-+.894523.xyz
-+.dns.navy
-
 # [Google]
 services.googleapis.cn
 +.xn--ngstr-lra8j.com
@@ -72,3 +66,10 @@ steampipe.steamcontent.tnkjmec.com
 
 # [ImmortalWrt]
 +.kyarucloud.moe
+
+# [Other]
++.majocc.top
++.785612.xyz
++.894523.xyz
++.dpdns.org
++.dns.navy
