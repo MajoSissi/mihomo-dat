@@ -14,3 +14,4 @@ PROCESS-NAME,easytier-core.exe
 
 # [Work]
 PROCESS-NAME,ziniao.exe
+PROCESS-NAME,env-kit.exe
