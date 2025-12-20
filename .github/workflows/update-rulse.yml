@@ -1,0 +1,33 @@
+name: Update ruleset
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'rules/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update mrs ruleset
+        run: |
+          chmod +x rules/convert-mrs.sh
+          ./rules/convert-mrs.sh
+
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update ruleset"
+          git push
