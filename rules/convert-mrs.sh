@@ -54,7 +54,8 @@ convert() {
 }
 
 # 开始执行
-# mihomo_download
+
+mihomo_download
 
 convert ./domain domain
 convert ./ipcidr ipcidr

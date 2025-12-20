@@ -16,8 +16,9 @@ jobs:
 
       - name: Update mrs ruleset
         run: |
-          chmod +x rules/convert-mrs.sh
-          ./rules/convert-mrs.sh
+          cd rules
+          chmod +x ./convert-mrs.sh
+          ./convert-mrs.sh
 
       - name: Commit and Push
         run: |
