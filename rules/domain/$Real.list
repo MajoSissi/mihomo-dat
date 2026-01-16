@@ -3,6 +3,8 @@
 +.ts.net
 
 # [LAN]
+*
++.lan
 +.localdomain
 +.example
 +.invalid
