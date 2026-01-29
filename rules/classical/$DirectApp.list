@@ -12,5 +12,3 @@ PROCESS-NAME,tailscale-ipn.exe
 PROCESS-NAME,easytier-gui.exe
 PROCESS-NAME,easytier-core.exe
 
-# [Work]
-PROCESS-PATH-REGEX,(?i)\\ziniao
