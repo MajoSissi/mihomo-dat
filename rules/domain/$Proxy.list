@@ -16,3 +16,7 @@ sakurapybb.sharepoint.com
 # [CDN]
 +.jsdelivr.net
 
+# [Google]
+services.googleapis.cn
++.xn--ngstr-lra8j.com
+
