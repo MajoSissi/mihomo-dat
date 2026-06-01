@@ -15,8 +15,6 @@
 
 # [Develop]
 +.1panel.live
-api.deeplx.org
-www2.deepl.com
 +.ghproxy.com
 +.ghproxy.net
 +.gh-proxy.com
