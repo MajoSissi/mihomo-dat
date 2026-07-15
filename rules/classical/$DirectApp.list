@@ -1,14 +1,6 @@
 # [Tools]
 PROCESS-NAME,qbittorrent.exe
 
-# [Develop]
-PROCESS-NAME,jetbrains-toolbox.exe
-
-# [Network]
-PROCESS-NAME,tailscale.exe
-PROCESS-NAME,tailscaled.exe
-PROCESS-NAME,tailscale-ipn.exe
-
-PROCESS-NAME,easytier-gui.exe
-PROCESS-NAME,easytier-core.exe
+# [Game]
+PROCESS-PATH-WILDCARD,*\steamapps\common\*
 
