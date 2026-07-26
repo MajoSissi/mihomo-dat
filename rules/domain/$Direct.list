@@ -26,10 +26,6 @@
 +.threatbook.com
 +.xuanyuan.me
 
-# [Clouds]
-xyrppdbc2g.cloudflare-gateway.com
-+.backblazeb2.com
-
 # [Game]
 +.extcraft.com
 +.ylmc.cc
@@ -59,11 +55,18 @@ danmaku-cn.myani.org
 +.steamcontent.com
 steampipe.steamcontent.tnkjmec.com
 
+# [Clouds]
+xyrppdbc2g.cloudflare-gateway.com
++.backblazeb2.com
+
 # [CloudFlare]
 speed.cloudflare.com
 +.lfree.org
 region1.v2.argotunnel.com
 region2.v2.argotunnel.com
+
+# [Frp]
++.mefrp.com
 
 # [Other]
 +.majocc.top
