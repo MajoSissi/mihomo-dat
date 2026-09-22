@@ -69,6 +69,22 @@ speed.cloudflare.com
 region1.v2.argotunnel.com
 region2.v2.argotunnel.com
 
+# [Tailscale]
+# HKG
+derp20b.tailscale.com
+derp20c.tailscale.com
+derp20d.tailscale.com
+# SIN
+derp3e.tailscale.com
+derp3f.tailscale.com
+derp3g.tailscale.com
+derp3h.tailscale.com
+# TOK
+derp7e.tailscale.com
+derp7f.tailscale.com
+derp7g.tailscale.com
+derp7h.tailscale.com
+
 # [Frp]
 +.mefrp.com
 
